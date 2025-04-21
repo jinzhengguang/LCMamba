@@ -27,7 +27,7 @@ Official PyTorch implementation of LCMamba: LiDAR-Camera Fusion with State Space
 |:-----------:|:---------:|:-------:|:----------:|:--------:|
 | Camera-Only Baseline |    Camera     |    35.56%     | 41.21% | [Camera-Only](https://github.com/HuangJunjie2017/BEVDet) |
 | LiDAR-Only Baseline |    LiDAR     |    64.68%     | 69.28% | [LCMamba_lidar.pth](https://github.com/jinzhengguang/LCMamba/releases/download/v1.0/LCMamba_lidar.pth) |
-| LCMamba (Ours) |    LiDAR+Camera     |    69.65%     | 72.13% | [LCMamba.pth](https://github.com/jinzhengguang/LCMamba/releases/download/v1.0/LCMamba.pth) / [LCMamba.log](https://github.com/jinzhengguang/LCMamba/releases/download/v1.0/LCMamba.log) 
+| LCMamba (Ours) |    LiDAR+Camera     |    68.66%     | 71.43% | [LCMamba.pth](https://github.com/jinzhengguang/LCMamba/releases/download/v1.0/LCMamba.pth) / [LCMamba.log](https://github.com/jinzhengguang/LCMamba/releases/download/v1.0/LCMamba.log) 
 
 
 ## Requirements
